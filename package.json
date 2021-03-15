@@ -12,9 +12,10 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
+    "@stakeordie/griptape.js": "0.1.0",
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
-    "vite": "^2.0.5",
-    "@stakeordie/griptape.js": "0.1.0"
+    "sass": "^1.32.8",
+    "vite": "^2.0.5"
   }
 }
